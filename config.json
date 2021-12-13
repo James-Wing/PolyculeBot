@@ -1,6 +1,6 @@
 {
-    "token": "ODY4MTg3MTk5NDg3NzY2NTk4.YPsAVg.aCeIZiiAploakUTCV9ul_BpTnYw",
+    "token": "INSERT TOKEN HERE",
     "prefix": "p!",
-    "mongo": "mongodb+srv://James:JAW2006@polyculebot.unwdv.mongodb.net/test",
-    "devID": "449332956474114048"
+    "mongo": "INSERT MONGO LINK HERE",
+    "devID": "INSERT DISCORD ID HERE"
 }
